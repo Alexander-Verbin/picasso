@@ -22,7 +22,7 @@ export const PostPage: React.FC<PropsType> = ({ posts }) => {
 					text={post.body}
 				/>
 			) : (
-				<p>пост не найден</p>
+				<p className='text'>пост не найден :(</p>
 			)}
 		</div>
 	);
