@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/picasso/static/css/main.3964da02.css",
-    "main.js": "/picasso/static/js/main.83d8ab10.js",
+    "main.js": "/picasso/static/js/main.f044586e.js",
     "static/media/Montserrat-Bold.eot": "/picasso/static/media/Montserrat-Bold.4b33f3d37c06db49a761.eot",
     "static/media/Montserrat-Bold.ttf": "/picasso/static/media/Montserrat-Bold.5885feb264991825e67f.ttf",
     "static/media/Montserrat-SemiBold.eot": "/picasso/static/media/Montserrat-SemiBold.262fb106797e141d7adf.eot",
@@ -17,10 +17,10 @@
     "static/media/Preloader.svg": "/picasso/static/media/Preloader.9d7ca1d347e1bd45923f7bd3f5054850.svg",
     "index.html": "/picasso/index.html",
     "main.3964da02.css.map": "/picasso/static/css/main.3964da02.css.map",
-    "main.83d8ab10.js.map": "/picasso/static/js/main.83d8ab10.js.map"
+    "main.f044586e.js.map": "/picasso/static/js/main.f044586e.js.map"
   },
   "entrypoints": [
     "static/css/main.3964da02.css",
-    "static/js/main.83d8ab10.js"
+    "static/js/main.f044586e.js"
   ]
 }
