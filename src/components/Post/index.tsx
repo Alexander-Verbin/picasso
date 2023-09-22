@@ -18,7 +18,7 @@ export const Post: React.FC<PropsType> = ({ title, text, id, userId }) => {
 			<p className='text'>
 				User Id: <b>{userId}</b>
 			</p>
-			<div className='1'>
+			<div className={styles.post__title}>
 				<p>Post title:</p>
 				<h1 className='h1'>{title}</h1>
 			</div>
