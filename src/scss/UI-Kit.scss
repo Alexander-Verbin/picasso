@@ -1,0 +1,47 @@
+///////UI-Kit//////////////////////
+
+.container {
+	max-width: 1920px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.h1 {
+	font-size: px-to-em(28);
+	font-weight: 700;
+	line-height: 120%;
+	color: var(--dark);
+}
+
+.h2 {
+	font-size: px-to-em(24);
+	font-weight: 600;
+	line-height: 135%;
+	color: var(--dark);
+}
+
+.text {
+	font-size: px-to-em(16);
+	font-weight: 500;
+	line-height: 160%;
+	color: var(--dark);
+}
+
+.link {
+	display: block;
+	padding: 4px 6px;
+	text-align: center;
+	background-color: var(--green);
+	border-radius: 4px;
+	text-decoration: none;
+	color: var(--white);
+	font-size: px-to-em(20);
+	font-weight: 500;
+	line-height: 120%;
+	width: 100%;
+	@include transition;
+
+	&:hover {
+		background-color: var(--dark);
+	}
+}
